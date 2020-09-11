@@ -6,5 +6,5 @@ layout: main.html
 
 ## mes posts
 {% for post in collections.posts %}
-- [{{post.data.title}}]({{/blogtim/post.url }})
+- [{{post.data.title}}]({{post.url | url }})
 {% endfor %}
