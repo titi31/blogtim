@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "rm -rf _site && eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "npm config set package-lock false"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
