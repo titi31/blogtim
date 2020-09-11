@@ -1,3 +1,3 @@
-return {
+module.exports = {
     pathPrefix: "/blogtim/"
-}
+};
