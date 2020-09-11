@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /blogtim/
 layout: main.html
 ---
 # mon blog 
