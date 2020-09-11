@@ -1,0 +1,20 @@
+{
+  "name": "blogtim",
+  "version": "1.0.0",
+  "description": "je parle de mes loisirs",
+  "main": "index.js",
+  "scripts": {
+    "build":"rm -rf _site && eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titi31/blogtim.git"
+  },
+  "author": "timothe laude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titi31/blogtim/issues"
+  },
+  "homepage": "https://github.com/titi31/blogtim#readme"
+}
