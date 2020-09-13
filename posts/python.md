@@ -15,8 +15,11 @@ va afficher un hello world dans la console.
 il y a les variables ce sont des étiquette qui stocke une valeur.
 
  > nombre=2
+ 
  > nombre_deuxieme=3
+ 
  > total=nombre+nombre_deuxieme
+ 
  > print(total)
   
 affichera 5.
