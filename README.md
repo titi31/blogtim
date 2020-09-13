@@ -6,5 +6,5 @@ layout: main.html
 
 ## mes posts 
 {% for post in collections.posts %}
-[center] - [{{post.data.title}}]({{post.url | url }})[/center]
+ - [{{post.data.title}}]({{post.url | url }})
 {% endfor %}
