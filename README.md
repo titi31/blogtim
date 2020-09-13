@@ -2,9 +2,9 @@
 permalink: /
 layout: main.html
 ---
-# [center]le blog de timothé [/center] 
+# le blog de timothé 
 
-## [center] mes posts [/center]
+## mes posts 
 {% for post in collections.posts %}
-- [center] [{{post.data.title}}]({{post.url | url }})[/center]
+[center] - [{{post.data.title}}]({{post.url | url }})[/center]
 {% endfor %}
