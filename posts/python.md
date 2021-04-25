@@ -99,6 +99,7 @@ bon donc je veux faire un programme qui verifie si la personne est majeur:
  dans notre cas sa affichera 'vous etes majeur depuis peu'.
  
  
+ 
 boucles :
  
  une boucle permet d'eviter de repeter plusieurs fois une instruction car le developpeur est fénéant 
