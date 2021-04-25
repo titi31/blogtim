@@ -105,6 +105,17 @@ bon donc je veux faire un programme qui verifie si la personne est majeur:
  une boucle permet d'eviter de repeter plusieurs fois une instruction car le developpeur est fénéant 
  
  les boucle for:
+    exemple:
+      > liste=range(0,5) ou liste=[0,1,2,3,4,5]
+      > for i in liste :
+      >   print(i)
+      resultat:
+        0
+        1
+        2
+        3
+        4
+        5
      
      
   
