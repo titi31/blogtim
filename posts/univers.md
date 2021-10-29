@@ -5,7 +5,7 @@ title: univers
 ---
 ## l'univers
 l'univers a plusieurs théorie sur sa forme :
-- l'univers est finie sans soit dès que l'on aie à la fin de l'univers on revient au début
+- l'univers est finie sans bord soit dès que l'on aie à la fin de l'univers on revient au début
 - l'univers est infinie donc il pourrait grandir dans une expansion infinie
 - l'univers est finie avec bords dur à imaginer 
 l'univers a surement la forme d'une sphere , plat ou ouvert 
@@ -27,4 +27,5 @@ mais l'univers en a la moitié de sa vie on ne connaitra pas la fin de l'univers
 
 l'univers à 13 milliards d'années.
 
-
+la vie dans l'univers a commencé dans des etoiles puis les etoiles ont crée des systeme solaire puis avec beaucoup de systeme solaire des galaxie
+nous venues de noyaux d'etoile car nos atomes qui nous composent ont été un jour dans un noyau d'etoile puis nous avons des atomes qui nous composent qui etait avant sur des personnes aujourd'huit décédé nous pouvons avoir des atomes de einstein.Au debut de l'univers il y a eu un combat entre la matiere et l'antimatiere et la matière a gagné et nous somme le reste de matiere qui n'a pas été anhilé.
